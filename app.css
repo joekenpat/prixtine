@@ -1,0 +1,32 @@
+.nav-btn{
+    background: #7cb9e8;
+    color: white
+}
+.navigation{
+    background:#1070CA !important;
+}
+.count{
+   background: #7cb9e8;
+   font-size: 3.5em;
+   color:white;
+}
+.content {
+    max-width: 500px;
+    margin: auto;
+    padding-top: 5%;
+  }
+  
+@media (max-width: 991px) {
+    .content {
+        max-width: 500px;
+        margin: auto;
+        padding-top: 20%;
+      }
+}
+.btn-nv{
+    background-color: #1070CA !important;
+    color:white !important;
+    width: 100% !important;
+    font-size: 12px
+}
+
